@@ -1,2 +1,2 @@
 # styles-and-shells
- Contains various code style files and shell scripts
+Contains various code style files and shell configurations
