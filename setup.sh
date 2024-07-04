@@ -6,7 +6,7 @@ script_path=$(readlink -f "$0")
 script_dir=$(dirname "$script_path")
 
 ### ZSH
-sudo apt install -y zsh
+sudo apt install -y curl zsh
 
 # oh-my-zsh https://ohmyz.sh/#install
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
